@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-quiz-app-using-reactjs/static/css/main.f7be9b69.chunk.css",
+    "main.js": "/Simple-quiz-app-using-reactjs/static/js/main.dbaa40c3.chunk.js",
+    "main.js.map": "/Simple-quiz-app-using-reactjs/static/js/main.dbaa40c3.chunk.js.map",
+    "runtime-main.js": "/Simple-quiz-app-using-reactjs/static/js/runtime-main.7816ad9f.js",
+    "runtime-main.js.map": "/Simple-quiz-app-using-reactjs/static/js/runtime-main.7816ad9f.js.map",
+    "static/js/2.c6a29348.chunk.js": "/Simple-quiz-app-using-reactjs/static/js/2.c6a29348.chunk.js",
+    "static/js/2.c6a29348.chunk.js.map": "/Simple-quiz-app-using-reactjs/static/js/2.c6a29348.chunk.js.map",
+    "static/js/3.d9b51f08.chunk.js": "/Simple-quiz-app-using-reactjs/static/js/3.d9b51f08.chunk.js",
+    "static/js/3.d9b51f08.chunk.js.map": "/Simple-quiz-app-using-reactjs/static/js/3.d9b51f08.chunk.js.map",
+    "index.html": "/Simple-quiz-app-using-reactjs/index.html",
+    "static/css/main.f7be9b69.chunk.css.map": "/Simple-quiz-app-using-reactjs/static/css/main.f7be9b69.chunk.css.map",
+    "static/js/2.c6a29348.chunk.js.LICENSE.txt": "/Simple-quiz-app-using-reactjs/static/js/2.c6a29348.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7816ad9f.js",
+    "static/js/2.c6a29348.chunk.js",
+    "static/css/main.f7be9b69.chunk.css",
+    "static/js/main.dbaa40c3.chunk.js"
+  ]
+}
